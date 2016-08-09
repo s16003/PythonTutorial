@@ -10,4 +10,8 @@
     "lose": "y"
 }{
     "lose": "y"
+}{
+    "lose": "y"
+}{
+    "draw": "z"
 }
